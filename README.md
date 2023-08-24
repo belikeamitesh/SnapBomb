@@ -16,7 +16,7 @@ Comment (Future Development): While currently under construction, the comment fe
 
 ![Home](./home.png)\
 ![Post](./post.png)
-![Register](./register.png)
+![Register](./signup.png)
 ![Login](./login.png)
 ![Likes](./like.png)
 
