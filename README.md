@@ -12,6 +12,14 @@ Like Bombs: Spread the love by liking other users' bombs. Double-tap or click th
 
 Comment (Future Development): While currently under construction, the comment feature will soon allow you to engage in explosive discussions about bombs. Stay tuned for updates!
 
+## Snapshots of the App
+
+![Home](./home.png)\
+![Post](./post.png)
+![Register](./register.png)
+![Login](./login.png)
+![Likes](./like.png)
+
 ## Technologies
 
 SnapBomb is powered by the following technologies:
