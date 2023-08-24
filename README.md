@@ -14,10 +14,19 @@ Comment (Future Development): While currently under construction, the comment fe
 
 ## Snapshots of the App
 
-![Home](./home.png)\
+### Home Screen
+![Home](./home.png)
+
+### New Post Screen
 ![Post](./post.png)
+
+### Signup Screen
 ![Register](./signup.png)
+
+### Login Screen
 ![Login](./login.png)
+
+### Likes Button
 ![Likes](./like.png)
 
 ## Technologies
